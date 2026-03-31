@@ -1,7 +1,6 @@
 # Smart-Rock-Paper-Scissors-Arena
 # PrologRPS – Intelligent Rock-Paper-Scissors in SWI-Prolog
-**Course:** CSA2001 – Fundamentals in AI and ML
-**CO2 + CO6 Mapping:** Knowledge Representation, Logic Programming, Prolog  
+**Course:** CSA2001 – Fundamentals in AI and ML  
 **Submitted by:** Aranyak Sarma | 25BCE10994 | 25th March 2026
 
 A complete **intelligent Rock-Paper-Scissors game** implemented in **SWI-Prolog** demonstrating:
